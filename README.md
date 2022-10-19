@@ -8,3 +8,5 @@
 6.	Dalam kotak dialog Manajer Sumber Data, jalur ke file akan tersedia di Nama File. Ubah nama Layer menjadi 1900_2000_earthquakes. Di bagian Format file, pilih Pembatas kustom dan centang Tab. Di bagian Definisi geometri, pilih Koordinat titik. Secara default bidang X dan nilai bidang Y akan diisi secara otomatis jika menemukan bidang nama yang sesuai di input. Anda dapat mengubahnya jika impor memilih bidang yang salah. Anda dapat membiarkan Geometry CRS ke EPSG:4326 - WGS 84 CRS default. Jika file Anda berisi koordinat dalam CRS yang berbeda, Anda dapat memilih CRS yang sesuai di sini. Klik Tambahkan.
 7.	Anda sekarang akan melihat bahwa data akan diimpor dan ditampilkan di kanvas QGIS sebagai layer baru yang disebut 1900_2000_earthquakes dengan CRS EPSG:4326.
 
+hasilnya:https://github.com/miaaprilia18/Importing-Spreadsheets-or-CSV-files-QGIS3-/blob/main/hasil%20Importing%20Spreadsheets%20or%20CSV%20files%20(QGIS3).png
+
